@@ -1,5 +1,6 @@
 markdown: rdiscount
 permalink: /:ITZ'S HOMEPAGE/
+url: http://itz0791.github.io
 name: Flyuc.COM
 author: ITZ
 qq: 111111
@@ -8,7 +9,7 @@ duoshuo: test
 beian: 浙ICP备000000号
 cnzz: 119959
 weibo: 111
-github: itz0791
+github: itz0791.github.io
 pygments: true
 safe: true
 paginate: 20
