@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:ITZ'S HOMEPAGE/
+url: http://flyuc.com
+name: Flyuc.COM
+author: ITZ
+qq: 111111
+email: itz0791@gmail.com
+duoshuo: test
+beian: 浙ICP备000000号
+cnzz: 119959
+weibo: 111
+github: itz0791
+pygments: true
+safe: true
+paginate: 20
+about: "这里是 ITZ 的个人博客，创建于 2016 年。使用Jekyll @ GitHub。<br /><br />这里包含了部分个人的“折腾”过程、结论和成果，切换到分类模可以更快地找到感兴趣的内容，欢迎观赏、建议、拍砖……"
