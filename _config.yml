@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:ITZ'S HOMEPAGE/
+permalink: /:title/
 url: http://flyuc.com
 name: Flyuc.COM
 author: ITZ
@@ -9,7 +9,7 @@ duoshuo:
 beian: 浙ICP备000000号
 cnzz: 
 weibo: 
-github: itz0791.github.io
+github: itz0791
 pygments: true
 safe: true
 paginate: 20
